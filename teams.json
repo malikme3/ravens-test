@@ -1,0 +1,20 @@
+[
+    {
+      name: 'Lions',
+      club: 'Round Rocks',
+      ground: 'Round Rock Cricket Ground',
+      captin: 'Aasim Sakhi'
+    },
+    {
+      name: 'Tigers',
+      club: 'Round Rocks',
+      ground: 'Round Rock Cricket Ground',
+      captin: 'Usman Khan'
+    },
+    {
+      name: 'Laggan',
+      club: 'Round Rocks',
+      ground: 'Round Rock Cricket Ground',
+      captin: 'Pavan Kumar'
+    }
+  ]
